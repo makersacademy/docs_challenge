@@ -21,10 +21,13 @@ Makers Academy have seen some wonderful readme files from Alumni, and examples o
 
 Your challenges will be marked on:
 
-* Clarity of information & instructions
+* Clarity of information
 * Spelling and Grammar
 * Formatting, and logical hierarchy of information
 * Links to relevant resources
 * Credits and attributions to teamates/others
+* Installation and running instructions
+
+Think of the best documentation you've seen. Most developers like code examples, much like pictures say a 1,000 words, code examples to developers will explain more in a few lines than paragraphs of docs. Write the documentation for Developers (and remember to use code snippets!)
 
 If you find that you finish this challenge early and are sure there is nothing else you could do to your documentation, why not apply what you've learned to your existing repos? Have a fantastic weekend!
